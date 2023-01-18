@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "module": "commonjs",
+    //null type이 들어올때 엄격하게 관리
+    "strictNullChecks": true
+  }
+}

@@ -1,6 +1,6 @@
 //Literal types
-var nameL; //nameL의 값으로는 문자열만 넣을 수 있다.
-var you;
+let nameL; //nameL의 값으로는 문자열만 넣을 수 있다.
+let you;
 //인자에 'hello'만 넣을 수 있다.
 // 1또는 0만 리턴 할 수 있다.
 function 함수3(a) {
@@ -21,4 +21,3 @@ var 자료 = {
 // a : 'kim' 타입지정문법
 function 내함수(a) { }
 내함수("kim");
-function ch5Hw2() { }

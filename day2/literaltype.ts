@@ -23,4 +23,3 @@ var 자료 = {
 // a : 'kim' 타입지정문법
 function 내함수(a: "kim") {}
 내함수("kim");
-function ch5Hw2() {}
