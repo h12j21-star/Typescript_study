@@ -1,6 +1,6 @@
 let person = { student: true, age: 20 };
 
-function f({ student, age }: { student: boolean; age: number }) {
+function f1({ student, age }: { student: boolean; age: number }) {
   console.log(student, age);
 }
 
