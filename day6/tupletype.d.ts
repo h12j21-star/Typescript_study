@@ -1,0 +1,10 @@
+declare let 멍멍: (string | boolean)[];
+declare let 냐옹: [string, boolean];
+declare let 멍멍멍: [string, boolean?];
+declare function 함수(...x: [number, string]): void;
+declare let arr: number[];
+declare let arr2: [number, number, ...number[]];
+declare let 음식: [string, number, boolean];
+declare let arrhw: [string, number, ...boolean[]];
+declare function hw3(...p: [string, boolean, ...(number | string)[]]): void;
+declare function hw4(...rest: [...(number | string)[]]): [number[], string[]];

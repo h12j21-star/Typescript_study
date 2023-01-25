@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs"
+    // "declaration": true
+  }
+}
+/**
+ "declaration": true,
+    "typeRoots": ["./types"]*/
+// 자동으로 d.ts파일생성
+// 이 파일들은 글로벌 모듈로 사용할수있다.
